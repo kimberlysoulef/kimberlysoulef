@@ -1,9 +1,9 @@
-## Oiii, eu sou a Kimberly Ferreira, desenvolvedora front-end e apaixonada por tecnologia!
+## Oiii, eu sou a Kimberly Soulef, desenvolvedora front-end e apaixonada por tecnologia!
 🎓 I study systems analysis and development. <br>
 🌱 Studying React, TypeScript.<br>
 📚 Learning English and Spanish.<br>
 🎯 Improving my skills in CSS3, HTML5, React and Javascript.<br>
-🚀 Alura’s student.<br>
+
 
 
 <div style="display: inline_block"><br>
