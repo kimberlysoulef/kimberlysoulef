@@ -3,7 +3,7 @@
 🌱 Studying React, TypeScript.<br>
 📚 Learning English and Spanish.<br>
 🎯 Improving my skills in CSS3, HTML5, React and Javascript.<br>
-😟 Infelizmente perdi o acesso ao meu portfólio anterior, mas você pode encontrar mais projos realizados aqui: https://github.com/kimferreira/. <br>
+😟 Infelizmente perdi o acesso ao meu portfólio anterior, mas você pode encontrar mais projetos que já realizei aqui: https://github.com/kimferreira/. <br>
 
 
 
