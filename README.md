@@ -1,4 +1,4 @@
-### Hi, I'm Kimberly Soulef and my nickname is "Kim", FrontEnd Developer 💻👋👋
+### Olá, meu nome é Kimberly Soulef e meu apelido é "Kim", sou Desenvolvedora FrontEnd Jr, completamente apaixonada por tecnologia 💻👋👋
 - 🎓 Eu estudo Análise e Desenvolvimento de Sistemas pela Universidade Paulista Unip
 - 🌱 Atualmente, estou estudando Next.Js e TypeScript;
 - 📚 Inglês e Espanhol Intermediário;
